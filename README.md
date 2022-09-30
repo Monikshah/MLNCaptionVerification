@@ -12,5 +12,5 @@ Requirements and installation:
 Entailment scores and uncertainty scores:
 
 	- python entail.py
-	- python uncertainty_score
+	- python uncertainty_score.py
 
