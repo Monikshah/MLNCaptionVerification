@@ -1,5 +1,3 @@
-# MLN Learning
-
 # MLNCaptionVerification
 
 Requirements and installation:
@@ -10,6 +8,9 @@ Requirements and installation:
 	4. To install fairseq:
 
 		pip install fairseq
+
+MLN Learning:
+
 
 Entailment scores and uncertainty scores:
 
