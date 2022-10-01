@@ -11,6 +11,8 @@ Requirements and installation:
 
 MLN Learning:
 
+	- python MLN_rules.py
+
 
 Entailment scores and uncertainty scores:
 
